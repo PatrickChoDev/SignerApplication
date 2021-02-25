@@ -1,0 +1,1 @@
+export const ENDPOINT = 'http://110.181.137.99:12345'.toString();
